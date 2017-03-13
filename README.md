@@ -1,1 +1,1 @@
-A starting point for Angular2 applications
+Bugged Out bug tracking Angular 2 application.
